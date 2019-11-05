@@ -1,0 +1,19 @@
+Package: gonzellerin
+Title: Methode d analyse de liaison entre deux variables
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = c("Thomas", "Alexis"),
+           family = c("Gonzalez", "Pellerin"),
+           role = c("aut", "cre"),
+           email = c("gonzalez.thomas11@gmail.com","pellerin_alexis@hotmaiil.com"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Ce package genere des fonctions qui permettent d analyser le lien entre deux variables quantitatives.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-11-05 12:59:56 UTC; Alex
+Author: Thomas Alexis Gonzalez Pellerin [aut, cre]
+    (<https://orcid.org/YOUR-ORCID-ID>)
+Maintainer: Thomas Alexis Gonzalez Pellerin <gonzalez.thomas11@gmail.com>
